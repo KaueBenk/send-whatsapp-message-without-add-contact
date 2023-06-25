@@ -15,4 +15,14 @@ module.exports = {
     },
   },
   plugins: [],
+  theme: {
+    extend: {
+      colors: {
+        'teal-green': '#128C7E',
+        'teal-green-light': '#25D366',
+        'teal-green-dark': '#075E54',
+        'whatsapp-white': '#fcf5eb',
+      },
+    },
+  },
 }
